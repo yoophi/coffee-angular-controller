@@ -1,0 +1,21 @@
+{
+  "name": "coffee-angular-controller",
+  "homepage": "https://github.com/yoophi/coffee-angular-controller",
+  "authors": [
+    "Pyunghyuk Yoo <yoophi@gmail.com>"
+  ],
+  "description": "",
+  "main": "base.js",
+  "keywords": [
+    "coffescript",
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
