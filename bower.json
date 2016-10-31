@@ -5,7 +5,7 @@
     "Pyunghyuk Yoo <yoophi@gmail.com>"
   ],
   "description": "",
-  "main": "base.js",
+  "main": "dist/base.js",
   "keywords": [
     "coffescript",
     "angularjs"
